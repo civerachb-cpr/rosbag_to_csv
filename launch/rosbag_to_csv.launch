@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<launch>
+  <node name="rosbag_to_csv_node" pkg="rosbag_to_csv" type="rosbag_to_csv.py" />
+</launch>
